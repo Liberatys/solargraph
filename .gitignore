@@ -7,3 +7,9 @@
 doc
 coverage
 /tmp/
+
+
+# Added by cargo
+
+/target
+Cargo.lock
